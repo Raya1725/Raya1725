@@ -26,5 +26,6 @@
 
 
 <p align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwdjRoc284bG00NXNrYjh5bmE3cjR6Ympma2N6bWVqdXU1YnhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dGhKc0KU4wfqdTUe3G/giphy.gif" width="30%" alt="Anime Sad" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwdjRoc284bG00NXNrYjh5bmE3cjR6Ympma2N6bWVqdXU1YnhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dGhKc0KU4wfqdTUe3G/giphy.gif" width="30%" alt="Sparkle nyatet" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFubDg0MWp6bGViaDR1cnV5MXlqbmtwMTkxM295cW05a3JoNmk3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aoWLUp46xZyMcvuFQe/giphy.gif" width="30%" alt="Mei wleeee" img align= "right" />
 </p>
